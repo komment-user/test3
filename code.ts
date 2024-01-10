@@ -28,10 +28,7 @@ export class NoScatterComponent implements OnInit {
     @Inject(MAT_DIALOG_DATA) public data: DialogData
   ) {}
 
-/**
-* @description `ngOnInit()` is a lifecycle hook function that is called after the
-* component is initialized and all its dependencies are loaded.
-*/
+
   ngOnInit() {}
 
 /**
