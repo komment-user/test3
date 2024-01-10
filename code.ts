@@ -6,7 +6,6 @@ export interface DialogData {
   login: string;
 }
 
-
 @Component({
   selector: "app-no-scatter",
   templateUrl: "./no-scatter.component.html",
