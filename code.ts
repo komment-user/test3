@@ -11,6 +11,7 @@ export interface DialogData {
   templateUrl: "./no-scatter.component.html",
   styleUrls: ["./no-scatter.component.scss"],
 })
+  
 export class NoScatterComponent implements OnInit {
 /**
 * @description This is a constructor function for a class that receives data from a
