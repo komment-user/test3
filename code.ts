@@ -29,6 +29,10 @@ export class NoScatterComponent implements OnInit {
   ) {}
 
 
+/**
+* @description `ngOnInit()` is a lifecycle hook method that is called after the
+* component has been instantiated and its views have been bound.
+*/
   ngOnInit() {}
 
 /**
