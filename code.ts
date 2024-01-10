@@ -41,3 +41,4 @@ export class NoScatterComponent implements OnInit {
     this.dialogRef.close();
   }
 }
+
